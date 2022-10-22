@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+font-size: 23px;
+width:100%;
+margin: 0px;
+}
+
+#start{
+    font-size: 18px;
+}
+
+#status, #no_of_obj{
+    font-size: 18px;
+}
+#start,#no_of_obj,#start{
+    font-size: 18px;
+}
+
+.footer{
+    position: fixed;
+    color: rgb(255, 17, 17);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 140, 131);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid rgb(220, 0, 0);
+    border-radius: 10px;
+    margin-top: 160px;
+    box-shadow: 5px 5px 5px rgb(255, 146, 146);
+}
